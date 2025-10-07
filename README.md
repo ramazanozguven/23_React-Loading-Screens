@@ -1,7 +1,7 @@
 # Animierte Ladebildschirme in React mit Material UI und Axios
 ### 3 Awesome React Loading Screens | Skeleton - Circular - Animated
 
-![Project Image](https://github.com/username/repository-name/blob/main/images/screenshot.png)
+![Project Image](https://github.com/ramazanozguven/23_React-Loading-Screens/blob/2a4c0210dc8574c508cf4e4c75d6f015c501a7e7/Der%20Screenshot%20des%20Projekts.png)
 
 ## Was ist ein Skeleton Screen?
 
